@@ -72,7 +72,7 @@ Questions, see Gitter chat: https://gitter.im/open-climate/community# or raise a
 ## Collections
 *List of online collections climate change releated research publications. Format is: Title; Source name: URI; Submitted by; Submitted date.*
 
-Building the European Biodiversity Observation Network (EU BON) Project Outcomes | RIO | https://riojournal.com/collection/2/ | [@mrchristian](https://github.com/mrchristian "@mrchristian") | 04-09-2019
+Building the European Biodiversity Observation Network (EU BON) Project Outcomes | RIO | https://riojournal.com/collection/2/ |  [@mrchristian](https://github.com/mrchristian "@mrchristian") | 04-09-2019
 
 ## Stats
 ## Initiatives
