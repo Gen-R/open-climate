@@ -78,7 +78,7 @@ Building the European Biodiversity Observation Network (EU BON) Project Outcomes
 ## Initiatives
 ### publishing
 
-Grassroots | open post-publication peer review | https://grassroots.is | (https://github.com/mrchristian "@mrchristian") | 05-09-2019
+Grassroots | open post-publication peer review | https://grassroots.is | [@mrchristian](https://github.com/mrchristian "@mrchristian") | 05-09-2019
 ### technology
 
 ## Literature
