@@ -32,7 +32,7 @@ Please add or edit items for the lists below. Edit the lists over on this [LIVE 
 
 Questions, see Gitter chat: https://gitter.im/open-climate/community# or raise an issue above on GitHub.
 
-**Table of contents**
+### Table of contents
 - Fields
   - climate sciences
   - low-carbon technologies & environmental engineering
@@ -46,7 +46,7 @@ Questions, see Gitter chat: https://gitter.im/open-climate/community# or raise a
 - Literature
 - Ideas
 
-**Lists**
+# Lists
 
 ## Fields
 
