@@ -98,7 +98,7 @@ Tai, Travis C., and James P. W. Robinson. ‘Enhancing Climate Change Research W
 
 Questions about how to enable climate change to be 100% OA
 
-### Pro and contra for 'just paying to be 100 OA
+### Pro and contra for 'just paying' to be 100% OA
 
 ## Pro
 
