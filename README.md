@@ -93,3 +93,19 @@ See Zotero group collection under the tag [open climate](https://www.zotero.org/
 Kraker, Peter. ‘Illuminating Dark Knowledge’. Text. Https://Genr.Eu/Wp/ (blog), 3 December 2018. https://doi.org/10.25815/FN1Q-KC98.
 
 Tai, Travis C., and James P. W. Robinson. ‘Enhancing Climate Change Research With Open Science’. Frontiers in Environmental Science 6 (2018). https://doi.org/10/gf64mq.
+
+## Climate change 100% OA or bust
+
+Questions about how to enable climate change to be 100% OA
+
+### Pro and contra for 'just paying to be 100 OA
+
+## Pro
+
+## Contra
+
+ 1. Even with full OA publishers forcibly prevent data mining.
+ 
+ 
+
+
