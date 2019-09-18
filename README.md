@@ -66,7 +66,6 @@ Questions, see Gitter chat: https://gitter.im/open-climate/community# or raise a
 - renewable energy
 -
 
-
 ## Types
 ## Sources
 ## Collections
@@ -75,6 +74,11 @@ Questions, see Gitter chat: https://gitter.im/open-climate/community# or raise a
 Building the European Biodiversity Observation Network (EU BON) Project Outcomes | RIO | https://riojournal.com/collection/2/ |  [@mrchristian](https://github.com/mrchristian "@mrchristian") | 04-09-2019
 
 ## Stats
+
+### Benchmarks
+
+Approx 50% as on 2016 - https://twitter.com/CameronNeylon/status/1174359243832680448?s=20
+
 ## Initiatives
 ### publishing
 
