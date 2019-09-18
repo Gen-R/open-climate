@@ -1,4 +1,4 @@
-# Project Open Climate
+# Project Open Climate Knowledge
 
 📗/🌍 #openclimate
 
